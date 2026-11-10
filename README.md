@@ -1,5 +1,7 @@
 # reelkit
 
+[![CI](https://github.com/turbo-leg/reelkit/actions/workflows/ci.yml/badge.svg)](https://github.com/turbo-leg/reelkit/actions/workflows/ci.yml)
+
 Motion-graphics building blocks for [Remotion](https://www.remotion.dev): the parts you rebuild for every
 vertical explainer, product walkthrough or Reel.
 
