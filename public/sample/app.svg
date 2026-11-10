@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1170" height="2103" viewBox="0 0 1170 2103">
+<rect width="1170" height="2103" fill="#F8FAFC"/>
+<text x="60" y="170" font-family="Inter, Arial" font-size="84" font-weight="800" fill="#101828">Good morning</text>
+<text x="60" y="245" font-family="Inter, Arial" font-size="44" fill="#667085">Sample app · made-up data</text>
+<rect x="60" y="320" width="1050" height="240" rx="42" fill="#EEF2FF" stroke="#E4E7EC" stroke-width="3"/><text x="110" y="412" font-family="Inter, Arial" font-size="54" font-weight="700" fill="#101828">Today's class</text><text x="110" y="480" font-family="Inter, Arial" font-size="40" fill="#667085">Room 4 · 16:30</text>
+<rect x="60" y="600" width="1050" height="240" rx="42" fill="#FFFFFF" stroke="#E4E7EC" stroke-width="3"/><text x="110" y="692" font-family="Inter, Arial" font-size="54" font-weight="700" fill="#101828">Your ID</text><text x="110" y="760" font-family="Inter, Arial" font-size="40" fill="#667085">SAMPLE-0042</text>
+<rect x="60" y="880" width="1050" height="240" rx="42" fill="#FFFFFF" stroke="#E4E7EC" stroke-width="3"/><text x="110" y="972" font-family="Inter, Arial" font-size="54" font-weight="700" fill="#101828">Attendance</text><text x="110" y="1040" font-family="Inter, Arial" font-size="40" fill="#667085">12 of 13 classes</text>
+<rect x="60" y="1160" width="1050" height="240" rx="42" fill="#FFFFFF" stroke="#E4E7EC" stroke-width="3"/><text x="110" y="1252" font-family="Inter, Arial" font-size="54" font-weight="700" fill="#101828">Next step</text><text x="110" y="1320" font-family="Inter, Arial" font-size="40" fill="#667085">Join the class online</text>
+<rect x="60" y="1480" width="1050" height="150" rx="75" fill="#2563EB"/>
+<text x="585" y="1576" text-anchor="middle" font-family="Inter, Arial" font-size="54" font-weight="700" fill="#FFFFFF">Check in</text>
+<rect x="0" y="1900" width="1170" height="203" fill="#FFFFFF" stroke="#E4E7EC" stroke-width="3"/>
+<text x="146" y="2010" text-anchor="middle" font-family="Inter, Arial" font-size="34" fill="#2563EB">Home</text>
+<text x="438" y="2010" text-anchor="middle" font-family="Inter, Arial" font-size="34" fill="#98A2B3">Check in</text>
+<text x="730" y="2010" text-anchor="middle" font-family="Inter, Arial" font-size="34" fill="#98A2B3">Attendance</text>
+<text x="1022" y="2010" text-anchor="middle" font-family="Inter, Arial" font-size="34" fill="#98A2B3">Profile</text>
+</svg>

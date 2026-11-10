@@ -1,0 +1,33 @@
+{
+  "name": "@turbo-leg/reelkit",
+  "version": "0.1.0",
+  "description": "Motion-graphics building blocks for Remotion: beat-based timing, kinetic type, a drawn iPhone for real app screenshots, pointers, step trackers and themes.",
+  "license": "MIT",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": { ".": { "types": "./dist/index.d.ts", "import": "./dist/index.js" } },
+  "files": ["dist", "README.md", "LICENSE"],
+  "sideEffects": false,
+  "repository": { "type": "git", "url": "git+https://github.com/turbo-leg/reelkit.git" },
+  "keywords": ["remotion", "motion-graphics", "video", "react", "reels", "tiktok", "kinetic-typography"],
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "typecheck": "tsc --noEmit",
+    "studio": "remotion studio examples/index.ts",
+    "stills": "node scripts/render-stills.mjs"
+  },
+  "peerDependencies": {
+    "react": ">=18",
+    "remotion": "^4.0.0"
+  },
+  "devDependencies": {
+    "@remotion/cli": "4.0.538",
+    "@remotion/google-fonts": "4.0.538",
+    "@types/react": "^18.3.12",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.538",
+    "typescript": "5.6.3"
+  }
+}
